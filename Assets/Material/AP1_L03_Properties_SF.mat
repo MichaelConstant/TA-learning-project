@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: AP1_L03_Properties_SF
+  m_Shader: {fileID: 4800000, guid: bbd16a71317034545976c34fe2abe227, type: 3}
+  m_ShaderKeywords: _LIGHTON_ON _LIGHTSWITCH_ON
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _TextureInput:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _FakeLightIntensity: 1
+    - _LightAmount: 0
+    - _LightOn: 1
+    - _LightSwitch: 1
+    m_Colors:
+    - _Color: {r: 0.07843138, g: 0.3921569, b: 0.7843137, a: 1}
+    - _FakeLightCol: {r: 0.8, g: 1, b: 0.5, a: 1}
+    - _FakeLightDir: {r: 0, g: 1, b: 0, a: 0}
